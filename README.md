@@ -1,5 +1,5 @@
 # При звертанні до curl.php, вказуємо змінні GET
-link: http://test.ihousesmart.com/curl.php
+link: http://test.ihousesmart.com/curl.php?method=p&form=y&formdataname=hi&formdatadescription=mynameis&dest=http://test.ihousesmart.com/enter.php&cookie=my=sdagfer3r3sssss2rd23d
 
 * method= p - POST, g - GET 
 * form= y - відправка форми, n - без форми
