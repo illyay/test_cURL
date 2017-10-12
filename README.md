@@ -1,4 +1,6 @@
 # При звертанні до curl.php, вказуємо змінні GET
+link: http://test.ihousesmart.com/curl.php
+
 * method= p - POST, g - GET 
 * form= y - відправка форми, n - без форми
 * formdata[ключ без скобок]= змінна (необмежена кількість) - передача input
